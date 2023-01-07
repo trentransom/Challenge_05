@@ -14,6 +14,12 @@ In order to use this application, you will need to have the following installed 
     - alpaca_trade_api
     - MCForcastTools
 
+You will also need an account with Alpaca and create a .env file in the same folder as the application which contains your keys. 
+Set your keys to the variables ALPACA_API_KEY and ALPACA_SECRET_KEY as seen in the SAMPLE.env file.
+```
+ALPACA_API_KEY = "<YOUR ALPACA API KEY HERE!>"
+ALPACA_SECRET_KEY = "<YOUR ALPACA SECRET KEY HERE!>"
+```
 ---
 
 ## Emergency Fund Calculator
