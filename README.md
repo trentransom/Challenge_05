@@ -14,6 +14,8 @@ In order to use this application, you will need to have the following installed 
     - alpaca_trade_api
     - MCForcastTools
 
+---
+
 ## Emergency Fund Calculator
 
 This Jupyter Notebook application allows users to input information about their portfolio of stocks, bonds, and cryptocurrency in order to determine if they have sufficient funds to create an emergency fund.
